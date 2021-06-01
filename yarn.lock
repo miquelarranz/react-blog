@@ -2198,10 +2198,10 @@ capture-exit@^2.0.0:
   dependencies:
     rsvp "^4.8.4"
 
-carousel-component-lib@1.0.0-beta.2:
-  version "1.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/carousel-component-lib/-/carousel-component-lib-1.0.0-beta.2.tgz#33283f255c0da7c5f9dd0143bea37f3916cc536c"
-  integrity sha512-+2kXzfCVxbKxWFZhIB9vxhIyAS3cKXivDmM0rYoBDEF9ZewZ9WAFeYLBeQTjIrY5pKxSaJ4o/5b8LzrCA5b+5g==
+carousel-component-lib@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/carousel-component-lib/-/carousel-component-lib-1.0.0.tgz#ff3062460a67da6ba0a4a75513979ed5611045fc"
+  integrity sha512-f6gZEI3JPqZ+E1WOtIZHjTlKpamd4uVCnx7iypScj3k3WPZjplWm3SPiIEiGnhjVyHKPOjfic2zb2sdOArIwPw==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.35"
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
