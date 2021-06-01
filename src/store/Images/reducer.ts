@@ -18,4 +18,4 @@ export default function (state = INITIAL_STATE, action: ImageActions) {
             return state;
     }
 }
-export const selectImages = (state: AppState) => state.user.items;
+export const selectImages = (state: AppState) => state.images.items;

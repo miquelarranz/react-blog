@@ -2,7 +2,7 @@ import { combineReducers } from 'redux';
 import ImagesReducer from './Images/reducer';
 
 const rootReducer = combineReducers({
-    user: ImagesReducer,
+    images: ImagesReducer,
 });
 
 export default rootReducer;
